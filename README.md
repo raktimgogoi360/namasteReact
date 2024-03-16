@@ -1,2 +1,7 @@
-# namasteReact
-This is an learning react project. Step by step guide and practice session
+# RG Dev React JS
+
+. Introduction: 
+This is a react project to learn step by step.
+
+#
+
