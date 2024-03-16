@@ -1,9 +1,9 @@
 # RG Dev React JS
 
-# H1 Introduction: 
+## Introduction: 
 This is a react project to learn step by step.
 
-# H2 Stage One :
+### Stage One :
 
 1. What is CDN ?
 
